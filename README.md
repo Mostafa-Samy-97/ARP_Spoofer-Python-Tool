@@ -9,6 +9,8 @@ this simple tool help you to perform ARP Spoofing Attack on Wifi Network
 
 2 ) Scapy Library : # git clone https://github.com/secdev/scapy # cd scapy # ./run_scapy
 
+3 ) getmac Library : # pip install getmac 
+
 # Run the Tool and Have Fun :) ....
   
   
